@@ -7,3 +7,4 @@
 void proclaim (const std::string& st);
 
 #endif
+//Adding comment
